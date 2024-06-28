@@ -1,0 +1,23 @@
+{
+    "name": "Camera Recorder",
+    "description":"to be added",
+    "contributors": [{
+        "name": "Amit Yadav",
+        "githubId": "amit-yadav207"
+    }, {
+        "name": "Aniket Agrahari",
+        "githubId": "aniket-agr60"
+    },
+    {
+        "name": "Shashikanta Raut",
+        "githubId": "Skrout8"
+    },
+    {
+        "name": "Suzanne Sunil Nazareth",
+        "githubId": "suzannenazareth"
+    },
+    {
+        "name": "Vidyanand Kumar",
+        "githubId": "vidyanandk"
+    }]
+}

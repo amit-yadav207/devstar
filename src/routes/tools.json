@@ -83,6 +83,7 @@
     "camera-recorder": {
         "name": "Camera Recorder",
         "link": "/camera-recorder",
+<<<<<<< HEAD
         "description": "to be added",
         "contributors": [
             {
@@ -104,6 +105,29 @@
             {
                 "name": "Vidyanand Kumar",
                 "githubId": "vidyanandk"
+=======
+        "description": "",
+        "contributors": [
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+            },
+            {
+                "name": "",
+                "githubId": ""
+>>>>>>> 3ff57ec29de7772a6d0377a5ee8a56f3f5227a8a
             }
         ]
     },
